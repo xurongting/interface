@@ -1,5 +1,5 @@
 {"login_yzm": { "action": "getVerifyCode"},
-"login":{"action":"userLogin","user":"admin","psw":"123456", "yzm": ""},
+"login":{"action":"userLogin","user":"","psw":"", "yzm": ""},
 "admin":{"action":"showAdminList", "pageIndex":"1", "pageSize":	"10", "sortName":"adminId", "sortOrder":"desc"},
 "role":{"action":"showRoleList", "pageIndex":"1", "pageSize":	"10", "sortName":"roleId", "sortOrder":"desc"}
 }
